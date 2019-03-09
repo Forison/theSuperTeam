@@ -3,6 +3,7 @@
 	display: block;
     margin: 1.3em auto;
     max-width: 95%;
+     box-shadow: 0px 20px 80px -10px;
 }
 
 #footer{
@@ -24,4 +25,16 @@
 	font-family: monospace;
 	font-weight: bolder;
 
+}
+#tribute-link{
+	font-size:30px;
+	text-transform: capitalize;
+	text-decoration: none;
+	padding-left: 50px;
+	margin-bottom: 20px;
+	font-weight: bolder;
+	text-shadow: 1px 1px black;
+}
+.jumbotron{
+	border-radius: 0px;
 }
